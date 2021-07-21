@@ -1,0 +1,22 @@
+    body{
+        background-image: url("images/lapi2.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        
+       
+    
+    } 
+    nav{
+        text-decoration: none;
+        float: right;
+       
+        
+    } 
+    #up{
+        text-decoration: none;
+        padding: 5px;
+        font-size: 5px;
+        color-scheme: black;
+    }
+   
